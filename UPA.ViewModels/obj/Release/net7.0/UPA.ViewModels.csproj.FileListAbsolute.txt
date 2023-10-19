@@ -1,0 +1,15 @@
+D:\22-08-2023\slnUPA\UPA.ViewModels\bin\Release\net7.0\UPA.ViewModels.deps.json
+D:\22-08-2023\slnUPA\UPA.ViewModels\bin\Release\net7.0\UPA.ViewModels.dll
+D:\22-08-2023\slnUPA\UPA.ViewModels\bin\Release\net7.0\UPA.ViewModels.pdb
+D:\22-08-2023\slnUPA\UPA.ViewModels\bin\Release\net7.0\UPA.DAL.dll
+D:\22-08-2023\slnUPA\UPA.ViewModels\bin\Release\net7.0\UPA.DAL.pdb
+D:\22-08-2023\slnUPA\UPA.ViewModels\obj\Release\net7.0\UPA.ViewModels.csproj.AssemblyReference.cache
+D:\22-08-2023\slnUPA\UPA.ViewModels\obj\Release\net7.0\UPA.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\22-08-2023\slnUPA\UPA.ViewModels\obj\Release\net7.0\UPA.ViewModels.AssemblyInfoInputs.cache
+D:\22-08-2023\slnUPA\UPA.ViewModels\obj\Release\net7.0\UPA.ViewModels.AssemblyInfo.cs
+D:\22-08-2023\slnUPA\UPA.ViewModels\obj\Release\net7.0\UPA.ViewModels.csproj.CoreCompileInputs.cache
+D:\22-08-2023\slnUPA\UPA.ViewModels\obj\Release\net7.0\UPA.ViewModels.csproj.CopyComplete
+D:\22-08-2023\slnUPA\UPA.ViewModels\obj\Release\net7.0\UPA.ViewModels.dll
+D:\22-08-2023\slnUPA\UPA.ViewModels\obj\Release\net7.0\refint\UPA.ViewModels.dll
+D:\22-08-2023\slnUPA\UPA.ViewModels\obj\Release\net7.0\UPA.ViewModels.pdb
+D:\22-08-2023\slnUPA\UPA.ViewModels\obj\Release\net7.0\ref\UPA.ViewModels.dll

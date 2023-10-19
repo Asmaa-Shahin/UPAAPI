@@ -1,0 +1,319 @@
+// Product class
+public class Product
+{
+    // Properties
+    public int Id { get; set; }
+    public string Name { get; set; }
+    public string Description { get; set; }
+    public string SKU { get; set; }
+    public decimal Price { get; set; }
+    public string Supplier { get; set; }
+
+    // Methods for CRUD operations
+    public void AddProduct() { /* Implementation */ }
+    public void UpdateProduct() { /* Implementation */ }
+    public void DeleteProduct() { /* Implementation */ }
+}
+
+// StockItem class
+public class StockItem
+{
+    // Properties
+    public int Id { get; set; }
+    public int ProductId { get; set; }
+    public int Quantity { get; set; }
+    public string Location { get; set; }
+    public string Status { get; set; }
+
+    // Methods for managing stock
+    public void UpdateStockQuantity() { /* Implementation */ }
+    public void UpdateStockStatus() { /* Implementation */ }
+}
+
+// Category class
+public class Category
+{
+    // Properties
+    public int Id { get; set; }
+    public string Name { get; set; }
+    public string Description { get; set; }
+
+    // Methods for managing categories
+    public void AddCategory() { /* Implementation */ }
+    public void UpdateCategory() { /* Implementation */ }
+    public void DeleteCategory() { /* Implementation */ }
+}
+
+// Order class
+public class Order
+{
+    // Properties
+    public int Id { get; set; }
+    public string CustomerName { get; set; }
+    public DateTime OrderDate { get; set; }
+    public string Status { get; set; }
+    
+    // Methods for order processing
+    public void ProcessOrder() { /* Implementation */ }
+    public void UpdateOrderStatus() { /* Implementation */ }
+    public void GenerateInvoice() { /* Implementation */ }
+}
+
+// PurchaseOrder class
+public class PurchaseOrder
+{
+    // Properties
+    public int Id { get; set; }
+    public string Supplier { get; set; }
+    public DateTime OrderDate { get; set; }
+    public string Status { get; set; }
+    
+    // Methods for managing purchase orders
+    public void CreatePurchaseOrder() { /* Implementation */ }
+    public void UpdatePurchaseOrder() { /* Implementation */ }
+    public void CancelPurchaseOrder() { /* Implementation */ }
+}
+
+// User class
+public class User
+{
+    // Properties
+    public int Id { get; set; }
+    public string Username { get; set; }
+    public string Password { get; set; }
+    public string Role { get; set; }
+    
+    // Methods for user authentication and authorization
+    public bool AuthenticateUser() { /* Implementation */ }
+    public bool IsAuthorized(string permission) { /* Implementation */ }
+}
+
+// Supplier class
+// Supplier class
+public class Supplier
+{
+    // Properties
+    public int Id { get; set; }
+    public string Name { get; set; }
+    public string ContactInfo { get; set; }
+
+    // Methods for managing suppliers
+    public void AddSupplier()
+    {
+        // Implementation to add a new supplier to the database
+    }
+
+    public void UpdateSupplier()
+    {
+        // Implementation to update an existing supplier in the database
+    }
+
+    public void DeleteSupplier()
+    {
+        // Implementation to delete a supplier from the database
+    }
+
+    public static List<Supplier> GetAllSuppliers()
+    {
+        // Implementation to retrieve all suppliers from the database
+        // and return them as a list
+        return new List<Supplier>();
+    }
+
+    public static Supplier GetSupplierById(int id)
+    {
+        // Implementation to retrieve a supplier by its ID from the database
+        return new Supplier();
+    }
+
+    public List<Product> GetProductsBySupplier()
+    {
+        // Implementation to retrieve all products associated with this supplier
+        return new List<Product>();
+    }
+}
+// Warehouse class
+public class Warehouse
+{
+    // Properties
+    public int Id { get; set; }
+    public string Name { get; set; }
+    public string Location { get; set; }
+    public int Capacity { get; set; }
+
+    // Methods for managing warehouses
+    public void AddWarehouse()
+    {
+        // Implementation to add a new warehouse to the system
+    }
+
+    public void UpdateWarehouse()
+    {
+        // Implementation to update an existing warehouse
+    }
+
+    public void DeleteWarehouse()
+    {
+        // Implementation to delete a warehouse from the system
+    }
+}
+
+// StockTransaction class
+public class StockTransaction
+{
+    // Properties
+    public int Id { get; set; }
+    public string TransactionType { get; set; }
+    public DateTime Timestamp { get; set; }
+    public List<StockItem> StockItems { get; set; }
+
+    // Methods for managing stock transactions
+    public void CreateStockTransaction()
+    {
+        // Implementation to create a new stock transaction
+    }
+
+    public void ProcessStockTransaction()
+    {
+        // Implementation to process the stock transaction
+    }
+}
+
+// StockAlert class
+public class StockAlert
+{
+    // Properties
+    public int Id { get; set; }
+    public string AlertType { get; set; }
+    public StockItem AffectedStockItem { get; set; }
+    public DateTime Timestamp { get; set; }
+
+    // Methods for managing stock alerts
+    public void ManageStockAlert()
+    {
+        // Implementation to manage the stock alert
+    }
+}
+
+// StockReport class
+public class StockReport
+{
+    // Properties
+    public int Id { get; set; }
+    public string ReportType { get; set; }
+    public DateTime DateRangeStart { get; set; }
+    public DateTime DateRangeEnd { get; set; }
+    public List<StockItem> StockItems { get; set; }
+
+    // Methods for generating and analyzing stock reports
+    public void GenerateStockReport()
+    {
+        // Implementation to generate the stock report
+    }
+
+    public void AnalyzeStockReport()
+    {
+        // Implementation to analyze the stock report
+    }
+}
+
+// StockControlSystem class
+public class StockControlSystem
+{
+    // Methods for the overall stock control system
+    public void StartSystem()
+    {
+        // Implementation to start the stock control system
+    }
+
+    public void StopSystem()
+    {
+        // Implementation to stop the stock control system
+    }
+}
+///manage stock alert
+public void ManageStockAlert()
+{
+    // Check the type of alert
+    switch (AlertType)
+    {
+        case "LowStock":
+            // Take action for low stock alert
+            Console.WriteLine("Low stock alert triggered for stock item: " + AffectedStockItem.Id);
+            // Implement your logic to handle low stock alert
+            break;
+        case "OutofStock":
+            // Take action for out of stock alert
+            Console.WriteLine("Out of stock alert triggered for stock item: " + AffectedStockItem.Id);
+            // Implement your logic to handle out of stock alert
+            break;
+        case "ExpiryDate":
+            // Take action for expiry date alert
+            Console.WriteLine("Expiry date alert triggered for stock item: " + AffectedStockItem.Id);
+            // Implement your logic to handle expiry date alert
+            break;
+        // Add more cases for other types of alerts as needed
+
+        default:
+            // Handle unrecognized alert type
+            Console.WriteLine("Unrecognized alert type: " + AlertType);
+            break;
+    }
+}
+//stock analysis
+public class StockAnalytics
+{
+    // Generate report on stock levels
+    public void GenerateStockLevelReport()
+    {
+        // Implementation to generate stock level report
+    }
+
+    // Generate report on inventory turnover
+    public void GenerateInventoryTurnoverReport()
+    {
+        // Implementation to generate inventory turnover report
+    }
+
+    // Generate report on sales
+    public void GenerateSalesReport()
+    {
+        // Implementation to generate sales report
+    }
+
+    // Generate report on profitability
+    public void GenerateProfitabilityReport()
+    {
+        // Implementation to generate profitability report
+    }
+
+    // Analyze sales trends
+    public void AnalyzeSalesTrends()
+    {
+        // Implementation to analyze sales trends
+    }
+
+    // Analyze best-selling products
+    public void AnalyzeBestSellingProducts()
+    {
+        // Implementation to analyze best-selling products
+    }
+
+    // Analyze slow-moving items
+    public void AnalyzeSlowMovingItems()
+    {
+        // Implementation to analyze slow-moving items
+    }
+
+    // Provide insights on stock reorder points and optimal stock levels
+    public void ProvideStockInsights()
+    {
+        // Implementation to provide stock insights
+    }
+
+    // Monitor supplier performance and track delivery times
+    public void MonitorSupplierPerformance()
+    {
+        // Implementation to monitor supplier performance
+    }
+}
