@@ -28,7 +28,7 @@ namespace UPA.Web.Controllers
             _tokenService = tokenService;
             _mapper = mapper;
         }
-        [HttpPost("login")]
+        [HttpPost("login23")]
         public async Task<ActionResult<UserDto>> Login2(LoginDto loginDto)
         {
             var user = await _userManager.FindByNameAsync(loginDto.Username);
