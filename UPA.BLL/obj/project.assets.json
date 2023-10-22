@@ -1467,23 +1467,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Asmaa\\.nuget\\packages\\": {},
+    "C:\\Users\\Yomna\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UPA Clone\\UPAAPI\\UPA.BLL\\UPA.BLL.csproj",
+      "projectUniqueName": "E:\\Projects\\UPA\\API\\UPA.BLL\\UPA.BLL.csproj",
       "projectName": "UPA.BLL",
-      "projectPath": "D:\\UPA Clone\\UPAAPI\\UPA.BLL\\UPA.BLL.csproj",
-      "packagesPath": "C:\\Users\\Asmaa\\.nuget\\packages\\",
-      "outputPath": "D:\\UPA Clone\\UPAAPI\\UPA.BLL\\obj\\",
+      "projectPath": "E:\\Projects\\UPA\\API\\UPA.BLL\\UPA.BLL.csproj",
+      "packagesPath": "C:\\Users\\Yomna\\.nuget\\packages\\",
+      "outputPath": "E:\\Projects\\UPA\\API\\UPA.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Asmaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Yomna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1491,19 +1494,19 @@
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\UPA Clone\\UPAAPI\\UPA.DAL\\UPA.DAL.csproj": {
-              "projectPath": "D:\\UPA Clone\\UPAAPI\\UPA.DAL\\UPA.DAL.csproj"
+            "E:\\Projects\\UPA\\API\\UPA.DAL\\UPA.DAL.csproj": {
+              "projectPath": "E:\\Projects\\UPA\\API\\UPA.DAL\\UPA.DAL.csproj"
             },
-            "D:\\UPA Clone\\UPAAPI\\UPA.ViewModels\\UPA.ViewModels.csproj": {
-              "projectPath": "D:\\UPA Clone\\UPAAPI\\UPA.ViewModels\\UPA.ViewModels.csproj"
+            "E:\\Projects\\UPA\\API\\UPA.ViewModels\\UPA.ViewModels.csproj": {
+              "projectPath": "E:\\Projects\\UPA\\API\\UPA.ViewModels\\UPA.ViewModels.csproj"
             }
           }
         }
@@ -1539,7 +1542,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
