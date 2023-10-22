@@ -29,6 +29,22 @@ namespace UPA.Web.Controllers
             _mapper = mapper;
         }
         [HttpPost("login")]
+        public async Task<ActionResult<UserDto>> Login2(LoginDto loginDto)
+        {
+            var user = await _userManager.FindByNameAsync(loginDto.Username);
+            if (user == null) return Unauthorized(new ApiResponse(401));
+            var result = await _signInManager.CheckPasswordSignInAsync(user, loginDto.Password, loginDto.isRemembered);
+            if (!result.Succeeded) return Unauthorized(new ApiResponse(401));
+            var userDto = new UserDto()
+            {
+                Email = user.Email,
+                UserName = $"{user.UserName}",
+                Token = await _tokenService.CreateToken(user, _userManager),
+                Message = "success"
+            };
+            return Ok(userDto);
+        }
+        [HttpPost("login")]
         public async Task<ActionResult<UserDto>> Login(LoginDto loginDto)
         {
             var user = await _userManager.FindByNameAsync(loginDto.Username);

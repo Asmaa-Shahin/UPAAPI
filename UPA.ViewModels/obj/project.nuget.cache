@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6n37PslFjPHv/uEa7uQYQ+YU5WITeC57KvvAv+6Oj6/Ac35AR+vHG2TWaPNTnsxoUgp0/87nyBdouo/qV/aF1A==",
+  "dgSpecHash": "eguCjxZB1GcAxW/W2LPcNHx6hexa5kDeeUSsmQGiqy01GL6S3B0cyZCbXqu3LE5oMai+NW94Jjf5a52OcbfywQ==",
   "success": true,
-  "projectFilePath": "D:\\22-08-2023\\slnUPA\\UPA.ViewModels\\UPA.ViewModels.csproj",
+  "projectFilePath": "D:\\UPA Clone\\UPAAPI\\UPA.ViewModels\\UPA.ViewModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asmaa\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.8\\microsoft.aspnetcore.cryptography.internal.7.0.8.nupkg.sha512",
     "C:\\Users\\Asmaa\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.8\\microsoft.aspnetcore.cryptography.keyderivation.7.0.8.nupkg.sha512",

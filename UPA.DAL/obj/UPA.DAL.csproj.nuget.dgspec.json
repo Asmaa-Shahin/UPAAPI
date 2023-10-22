@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\22-08-2023\\slnUPA\\UPA.DAL\\UPA.DAL.csproj": {}
+    "D:\\UPA Clone\\UPAAPI\\UPA.DAL\\UPA.DAL.csproj": {}
   },
   "projects": {
-    "D:\\22-08-2023\\slnUPA\\UPA.DAL\\UPA.DAL.csproj": {
+    "D:\\UPA Clone\\UPAAPI\\UPA.DAL\\UPA.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\22-08-2023\\slnUPA\\UPA.DAL\\UPA.DAL.csproj",
+        "projectUniqueName": "D:\\UPA Clone\\UPAAPI\\UPA.DAL\\UPA.DAL.csproj",
         "projectName": "UPA.DAL",
-        "projectPath": "D:\\22-08-2023\\slnUPA\\UPA.DAL\\UPA.DAL.csproj",
+        "projectPath": "D:\\UPA Clone\\UPAAPI\\UPA.DAL\\UPA.DAL.csproj",
         "packagesPath": "C:\\Users\\Asmaa\\.nuget\\packages\\",
-        "outputPath": "D:\\22-08-2023\\slnUPA\\UPA.DAL\\obj\\",
+        "outputPath": "D:\\UPA Clone\\UPAAPI\\UPA.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

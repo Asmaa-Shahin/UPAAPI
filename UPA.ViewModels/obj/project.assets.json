@@ -793,11 +793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\22-08-2023\\slnUPA\\UPA.ViewModels\\UPA.ViewModels.csproj",
+      "projectUniqueName": "D:\\UPA Clone\\UPAAPI\\UPA.ViewModels\\UPA.ViewModels.csproj",
       "projectName": "UPA.ViewModels",
-      "projectPath": "D:\\22-08-2023\\slnUPA\\UPA.ViewModels\\UPA.ViewModels.csproj",
+      "projectPath": "D:\\UPA Clone\\UPAAPI\\UPA.ViewModels\\UPA.ViewModels.csproj",
       "packagesPath": "C:\\Users\\Asmaa\\.nuget\\packages\\",
-      "outputPath": "D:\\22-08-2023\\slnUPA\\UPA.ViewModels\\obj\\",
+      "outputPath": "D:\\UPA Clone\\UPAAPI\\UPA.ViewModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -819,8 +819,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\22-08-2023\\slnUPA\\UPA.DAL\\UPA.DAL.csproj": {
-              "projectPath": "D:\\22-08-2023\\slnUPA\\UPA.DAL\\UPA.DAL.csproj"
+            "D:\\UPA Clone\\UPAAPI\\UPA.DAL\\UPA.DAL.csproj": {
+              "projectPath": "D:\\UPA Clone\\UPAAPI\\UPA.DAL\\UPA.DAL.csproj"
             }
           }
         }

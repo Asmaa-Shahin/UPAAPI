@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xj1VyxkY6E8cPSwWW07TY5LIulA/PmjzEepI8FVhL8n0bfEo8knfVeLxtP1QN2oqBsjmEWfLEyjRcRInDuvm3Q==",
+  "dgSpecHash": "vSyQ6E6RhjhGwt+sdPHXHIsEX4XjHB5+SuMGbJpCDac3hbmCguYyZEFcAabEtuClWMEh3kCSjRsMuwxvgWeeBA==",
   "success": true,
-  "projectFilePath": "D:\\22-08-2023\\slnUPA\\UPA.Web\\UPA.Web.csproj",
+  "projectFilePath": "D:\\UPA Clone\\UPAAPI\\UPA.Web\\UPA.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asmaa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Asmaa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
