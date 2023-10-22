@@ -8,7 +8,7 @@ using UPA.Errors;
 
 namespace UPA.Web.Controllers
 {
-    [Route("api/[controller12]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class AccountController : ControllerBase
     {
