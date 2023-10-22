@@ -8,7 +8,7 @@ using UPA.Errors;
 
 namespace UPA.Web.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller12]")]
     [ApiController]
     public class AccountController : ControllerBase
     {
@@ -29,7 +29,7 @@ namespace UPA.Web.Controllers
             _mapper = mapper;
         }
     
-        [HttpPost("login567")]
+        [HttpPost("login")]
         public async Task<ActionResult<UserDto>> Login(LoginDto loginDto)
         {
             var user = await _userManager.FindByNameAsync(loginDto.Username);
