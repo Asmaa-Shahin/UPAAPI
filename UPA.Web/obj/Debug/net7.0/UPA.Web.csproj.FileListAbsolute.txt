@@ -416,3 +416,187 @@ D:\UPA Clone\UPAAPI\UPA.Web\obj\Debug\net7.0\refint\UPA.Web.dll
 D:\UPA Clone\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.pdb
 D:\UPA Clone\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.genruntimeconfig.cache
 D:\UPA Clone\UPAAPI\UPA.Web\obj\Debug\net7.0\ref\UPA.Web.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\appsettings.Development.json
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\appsettings.json
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\UploadedAttachments\AssetDetails\setup.json
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.Web.exe
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.Web.deps.json
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.Web.runtimeconfig.json
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.Web.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.Web.pdb
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\AutoMapper.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Azure.Core.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Azure.Identity.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Humanizer.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Web.Cors.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Web.Http.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Web.Http.Cors.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\System.CodeDom.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Memory.Data.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.BLL.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.DAL.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.ViewModels.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.BLL.pdb
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.DAL.pdb
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.ViewModels.pdb
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.AssemblyReference.cache
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.AssemblyInfoInputs.cache
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.AssemblyInfo.cs
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.CoreCompileInputs.cache
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.UPA.Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.UPA.Web.props
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UPA.Web.props
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UPA.Web.props
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\obj\Debug\net7.0\staticwebassets.pack.json
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\obj\Debug\net7.0\staticwebassets.build.json
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\obj\Debug\net7.0\staticwebassets.development.json
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\obj\Debug\net7.0\scopedcss\bundle\UPA.Web.styles.css
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.CopyComplete
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\obj\Debug\net7.0\refint\UPA.Web.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.pdb
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.genruntimeconfig.cache
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.Web\obj\Debug\net7.0\ref\UPA.Web.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\appsettings.Development.json
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\appsettings.json
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\UploadedAttachments\AssetDetails\setup.json
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.Web.exe
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.Web.deps.json
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.Web.runtimeconfig.json
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.Web.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.Web.pdb
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\AutoMapper.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Azure.Core.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Azure.Identity.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Humanizer.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Web.Cors.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Web.Http.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Web.Http.Cors.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\System.CodeDom.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Memory.Data.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.BLL.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.DAL.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.ViewModels.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.BLL.pdb
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.DAL.pdb
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\bin\Debug\net7.0\UPA.ViewModels.pdb
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.AssemblyReference.cache
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.AssemblyInfoInputs.cache
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.AssemblyInfo.cs
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.CoreCompileInputs.cache
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.UPA.Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.UPA.Web.props
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.UPA.Web.props
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.UPA.Web.props
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\staticwebassets.pack.json
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\staticwebassets.build.json
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\staticwebassets.development.json
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\scopedcss\bundle\UPA.Web.styles.css
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.csproj.CopyComplete
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\refint\UPA.Web.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.pdb
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.genruntimeconfig.cache
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\ref\UPA.Web.dll
