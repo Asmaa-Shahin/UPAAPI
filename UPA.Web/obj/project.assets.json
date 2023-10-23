@@ -8489,24 +8489,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Asmaa\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\SomeOne\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UPA Clone\\UPAAPI\\UPA.Web\\UPA.Web.csproj",
+      "projectUniqueName": "F:\\_____Almostakbal\\UPA\\2023-10-23\\UPAAPI\\UPA.Web\\UPA.Web.csproj",
       "projectName": "UPA.Web",
-      "projectPath": "D:\\UPA Clone\\UPAAPI\\UPA.Web\\UPA.Web.csproj",
-      "packagesPath": "C:\\Users\\Asmaa\\.nuget\\packages\\",
-      "outputPath": "D:\\UPA Clone\\UPAAPI\\UPA.Web\\obj\\",
+      "projectPath": "F:\\_____Almostakbal\\UPA\\2023-10-23\\UPAAPI\\UPA.Web\\UPA.Web.csproj",
+      "packagesPath": "C:\\Users\\SomeOne\\.nuget\\packages\\",
+      "outputPath": "F:\\_____Almostakbal\\UPA\\2023-10-23\\UPAAPI\\UPA.Web\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Asmaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\SomeOne\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8514,21 +8509,20 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\UPA Clone\\UPAAPI\\UPA.BLL\\UPA.BLL.csproj": {
-              "projectPath": "D:\\UPA Clone\\UPAAPI\\UPA.BLL\\UPA.BLL.csproj"
+            "F:\\_____Almostakbal\\UPA\\2023-10-23\\UPAAPI\\UPA.BLL\\UPA.BLL.csproj": {
+              "projectPath": "F:\\_____Almostakbal\\UPA\\2023-10-23\\UPAAPI\\UPA.BLL\\UPA.BLL.csproj"
             },
-            "D:\\UPA Clone\\UPAAPI\\UPA.DAL\\UPA.DAL.csproj": {
-              "projectPath": "D:\\UPA Clone\\UPAAPI\\UPA.DAL\\UPA.DAL.csproj"
+            "F:\\_____Almostakbal\\UPA\\2023-10-23\\UPAAPI\\UPA.DAL\\UPA.DAL.csproj": {
+              "projectPath": "F:\\_____Almostakbal\\UPA\\2023-10-23\\UPAAPI\\UPA.DAL\\UPA.DAL.csproj"
             },
-            "D:\\UPA Clone\\UPAAPI\\UPA.ViewModels\\UPA.ViewModels.csproj": {
-              "projectPath": "D:\\UPA Clone\\UPAAPI\\UPA.ViewModels\\UPA.ViewModels.csproj"
+            "F:\\_____Almostakbal\\UPA\\2023-10-23\\UPAAPI\\UPA.ViewModels\\UPA.ViewModels.csproj": {
+              "projectPath": "F:\\_____Almostakbal\\UPA\\2023-10-23\\UPAAPI\\UPA.ViewModels\\UPA.ViewModels.csproj"
             }
           }
         }
@@ -8597,7 +8591,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   },

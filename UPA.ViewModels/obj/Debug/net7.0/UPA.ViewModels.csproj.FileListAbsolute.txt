@@ -73,3 +73,33 @@ D:\UPA Clone\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\UPA.ViewModels.dll
 D:\UPA Clone\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\refint\UPA.ViewModels.dll
 D:\UPA Clone\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\UPA.ViewModels.pdb
 D:\UPA Clone\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\ref\UPA.ViewModels.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.ViewModels\bin\Debug\net7.0\UPA.ViewModels.deps.json
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.ViewModels\bin\Debug\net7.0\UPA.ViewModels.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.ViewModels\bin\Debug\net7.0\UPA.ViewModels.pdb
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.ViewModels\bin\Debug\net7.0\UPA.DAL.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.ViewModels\bin\Debug\net7.0\UPA.DAL.pdb
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\UPA.ViewModels.csproj.AssemblyReference.cache
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\UPA.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\UPA.ViewModels.AssemblyInfoInputs.cache
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\UPA.ViewModels.AssemblyInfo.cs
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\UPA.ViewModels.csproj.CoreCompileInputs.cache
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\UPA.ViewModels.csproj.CopyComplete
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\UPA.ViewModels.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\refint\UPA.ViewModels.dll
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\UPA.ViewModels.pdb
+F:\_____Almostakbal\UPA\clone UPA\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\ref\UPA.ViewModels.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.ViewModels\bin\Debug\net7.0\UPA.ViewModels.deps.json
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.ViewModels\bin\Debug\net7.0\UPA.ViewModels.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.ViewModels\bin\Debug\net7.0\UPA.ViewModels.pdb
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.ViewModels\bin\Debug\net7.0\UPA.DAL.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.ViewModels\bin\Debug\net7.0\UPA.DAL.pdb
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\UPA.ViewModels.csproj.AssemblyReference.cache
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\UPA.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\UPA.ViewModels.AssemblyInfoInputs.cache
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\UPA.ViewModels.AssemblyInfo.cs
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\UPA.ViewModels.csproj.CoreCompileInputs.cache
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\UPA.ViewModels.csproj.CopyComplete
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\UPA.ViewModels.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\refint\UPA.ViewModels.dll
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\UPA.ViewModels.pdb
+F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.ViewModels\obj\Debug\net7.0\ref\UPA.ViewModels.dll
