@@ -8,6 +8,7 @@ using UPA.DAL.Models;
 
 using UPA.Extensions;
 using Microsoft.AspNetCore.Authorization;
+using UPA.Web.Controllers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -40,7 +41,7 @@ builder.Services.AddIdentityServices(builder.Configuration);
 //        .RequireAuthenticatedUser()
 //        .Build();
 //});
-
+builder.Services.AddSignalR();
 var app = builder.Build();
 using var host = app.Services.CreateScope();
 var services = host.ServiceProvider;
@@ -67,7 +68,9 @@ catch (Exception ex)
 //    app.UseSwagger();
 //    app.UseSwaggerUI();
 //}
-
+app.UseCors(
+   "AllowAngularApp"
+    );
 app.UseHttpsRedirection();
 app.UseRouting();
 
@@ -76,9 +79,8 @@ app.UseAuthorization();
 
 
 
-app.UseCors(
-   "AllowAngularApp"
-    );
+
+app.MapHub<ChatHub>("/ChatHub");
 //app.Use(async (context, next) =>
 //{
 //    await next();

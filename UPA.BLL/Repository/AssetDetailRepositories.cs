@@ -5249,6 +5249,14 @@ namespace UPA.BLL.Repository
                 {
                     query = query.Where(a => data.SearchBy.HospitalId.Contains(a.HospitalId));
                 }
+                if (data.SearchBy.OrgId.Count > 0)
+                {
+                    query = query.Where(a => data.SearchBy.OrgId.Contains(a.Hospital.OrganizationId));
+                }
+                if (data.SearchBy.SubOrgId.Count > 0)
+                {
+                    query = query.Where(a => data.SearchBy.SubOrgId.Contains(a.Hospital.SubOrganizationId));
+                }
                 if (data.SearchBy.CategoryId.Count > 0)
                 {
                     query = query.Where(a => data.SearchBy.CategoryId.Contains(a.MasterAsset.CategoryId));
@@ -5257,6 +5265,97 @@ namespace UPA.BLL.Repository
                 {
                     query = query.Where(a => data.SearchBy.SubCategoryId.Contains(a.MasterAsset.SubCategoryId));
                 }
+                if (data.SearchBy.MaxAgeByYear !=null && data.SearchBy.MinAgeByYear==null && data.SearchBy.MaxAgeByMonth==null && data.SearchBy.MinAgeByMonth==null)
+                {
+                    query = query.Where(a => a.InstallationDate != DateTime.Parse("01/01/1900")&&((DateTime.Now.Year)-(a.InstallationDate.Value.Year))<= data.SearchBy.MaxAgeByYear);
+                }
+                if (data.SearchBy.MaxAgeByYear == null && data.SearchBy.MinAgeByYear != null&& data.SearchBy.MaxAgeByMonth == null && data.SearchBy.MinAgeByMonth == null)
+                {
+                    query = query.Where(a =>  a.InstallationDate != DateTime.Parse("01/01/1900")&&((DateTime.Now.Year) - (a.InstallationDate.Value.Year)) >= data.SearchBy.MinAgeByYear);
+                }
+                if (data.SearchBy.MaxAgeByYear != null && data.SearchBy.MinAgeByYear != null && data.SearchBy.MaxAgeByMonth == null && data.SearchBy.MinAgeByMonth == null)
+                {
+                    query = query.Where(a => a.InstallationDate != DateTime.Parse("01/01/1900")&&((DateTime.Now.Year) - (a.InstallationDate.Value.Year)) >= data.SearchBy.MinAgeByYear && ((DateTime.Now.Year) - (a.InstallationDate.Value.Year)) <= data.SearchBy.MaxAgeByYear);
+                }
+                if (data.SearchBy.MaxAgeByMonth == null && data.SearchBy.MinAgeByMonth != null && data.SearchBy.MaxAgeByYear == null && data.SearchBy.MinAgeByYear == null)
+                {
+                    query = query.Where(a => a.InstallationDate.HasValue&&a.InstallationDate!=DateTime.Parse("01/01/1900") &&
+                                  ((DateTime.Now.Year - a.InstallationDate.Value.Year) * 12 +
+                                   DateTime.Now.Month - a.InstallationDate.Value.Month) >= data.SearchBy.MinAgeByMonth);
+                }
+                if (data.SearchBy.MaxAgeByMonth != null && data.SearchBy.MinAgeByMonth == null&& data.SearchBy.MaxAgeByYear == null && data.SearchBy.MinAgeByYear == null)
+                {
+                    query = query.Where(a => a.InstallationDate.HasValue && a.InstallationDate != DateTime.Parse("01/01/1900")&&
+                                  ((DateTime.Now.Year - a.InstallationDate.Value.Year)* 12 +
+                                   DateTime.Now.Month - a.InstallationDate.Value.Month) <= data.SearchBy.MaxAgeByMonth);
+                }
+                if (data.SearchBy.MaxAgeByMonth != null && data.SearchBy.MinAgeByMonth != null && data.SearchBy.MaxAgeByYear == null && data.SearchBy.MinAgeByYear == null)
+                {
+                    query = query.Where(a => a.InstallationDate.HasValue && a.InstallationDate != DateTime.Parse("01/01/1900") &&
+                                ((DateTime.Now.Year - a.InstallationDate.Value.Year) * 12 +
+                                 DateTime.Now.Month - a.InstallationDate.Value.Month <= data.SearchBy.MaxAgeByMonth && (DateTime.Now.Year - a.InstallationDate.Value.Year) * 12 +
+                                   DateTime.Now.Month - a.InstallationDate.Value.Month >= data.SearchBy.MinAgeByMonth
+                                   ));
+                }
+
+                if (data.SearchBy.MaxAgeByMonth == null && data.SearchBy.MinAgeByMonth != null && data.SearchBy.MaxAgeByYear == null && data.SearchBy.MinAgeByYear != null)
+                {
+                    query = query.Where(a => a.InstallationDate.HasValue && a.InstallationDate != DateTime.Parse("01/01/1900") &&
+                                (((DateTime.Now.Year - a.InstallationDate.Value.Year) * 12 +
+                                 DateTime.Now.Month - a.InstallationDate.Value.Month )>= (data.SearchBy.MinAgeByMonth + data.SearchBy.MinAgeByYear*12)
+                                   ));
+                }
+                if (data.SearchBy.MaxAgeByMonth != null && data.SearchBy.MinAgeByMonth == null && data.SearchBy.MaxAgeByYear != null && data.SearchBy.MinAgeByYear == null)
+                {
+                    query = query.Where(a => a.InstallationDate.HasValue && a.InstallationDate != DateTime.Parse("01/01/1900") &&
+                                (((DateTime.Now.Year - a.InstallationDate.Value.Year) * 12 +
+                                 DateTime.Now.Month - a.InstallationDate.Value.Month) <= (data.SearchBy.MaxAgeByMonth + data.SearchBy.MaxAgeByYear * 12)
+                                   ));
+                }
+                if (data.SearchBy.MaxAgeByMonth != null && data.SearchBy.MinAgeByMonth != null && data.SearchBy.MaxAgeByYear != null && data.SearchBy.MinAgeByYear != null)
+                {
+                    if(data.SearchBy.MaxAgeByMonth == data.SearchBy.MinAgeByMonth  && data.SearchBy.MaxAgeByYear == data.SearchBy.MinAgeByYear)
+                    {
+
+                        query = query.Where(a => a.InstallationDate.HasValue && a.InstallationDate != DateTime.Parse("01/01/1900") &&
+                                                      (((DateTime.Now.Year - a.InstallationDate.Value.Year) * 12 +
+                                                       DateTime.Now.Month - a.InstallationDate.Value.Month) == (data.SearchBy.MaxAgeByMonth + data.SearchBy.MaxAgeByYear * 12)
+                                                         ));
+                    }
+                    else
+                    {
+                        query = query.Where(a => a.InstallationDate.HasValue && a.InstallationDate != DateTime.Parse("01/01/1900") &&
+                                                       (((DateTime.Now.Year - a.InstallationDate.Value.Year) * 12 +
+                                                        DateTime.Now.Month - a.InstallationDate.Value.Month) <= (data.SearchBy.MaxAgeByMonth + data.SearchBy.MaxAgeByYear * 12) &&
+                                                        ((DateTime.Now.Year - a.InstallationDate.Value.Year) * 12 +
+                                                        DateTime.Now.Month - a.InstallationDate.Value.Month) >= (data.SearchBy.MinAgeByMonth + data.SearchBy.MinAgeByYear * 12)
+                                                          ));
+                    }
+                   
+                }
+
+                if (data.SearchBy.MaxAgeByMonth == null && data.SearchBy.MinAgeByMonth != null && data.SearchBy.MaxAgeByYear != null && data.SearchBy.MinAgeByYear == null)
+                {
+                    query = query.Where(a => a.InstallationDate.HasValue && a.InstallationDate != DateTime.Parse("01/01/1900") &&
+                                (((DateTime.Now.Year - a.InstallationDate.Value.Year) <=  data.SearchBy.MaxAgeByYear ) &&
+                                 ((DateTime.Now.Year - a.InstallationDate.Value.Year) * 12 +
+                                 DateTime.Now.Month - a.InstallationDate.Value.Month) >= data.SearchBy.MinAgeByMonth 
+                                   ));
+                }
+                if (data.SearchBy.MinExpectedLife != null && data.SearchBy.MaxExpectedLife != null)
+                {
+                    query = query.Where(a =>a.MasterAsset.ExpectedLifeTime>=data.SearchBy.MinExpectedLife&&a.MasterAsset.ExpectedLifeTime<=data.SearchBy.MaxExpectedLife);
+                }
+                if (data.SearchBy.MinExpectedLife != null && data.SearchBy.MaxExpectedLife == null)
+                {
+                    query = query.Where(a => a.MasterAsset.ExpectedLifeTime == data.SearchBy.MinExpectedLife);
+                }
+                if (data.SearchBy.MinExpectedLife == null && data.SearchBy.MaxExpectedLife != null)
+                {
+                    query = query.Where(a => a.MasterAsset.ExpectedLifeTime == data.SearchBy.MaxExpectedLife);
+                }
+         
+
                 string setstartday, setstartmonth, setendday, setendmonth = "";
                 DateTime? startingFrom = new DateTime();
                 DateTime? endingTo = new DateTime();
@@ -5397,6 +5496,40 @@ namespace UPA.BLL.Repository
 
                            OrderByDescending(ww => ww.MasterAsset.ModelNumber);
                         }
+
+                        break;
+                    case "عمر الجهاز":
+                    case "AssetAge":
+                        if (data.SortStatus == "ascending")
+                        {
+                            query = query.
+                            OrderBy(ww => ww.InstallationDate);
+
+                        }
+                        else
+                        {
+                            query = query.
+
+                           OrderByDescending(ww => ww.InstallationDate);
+                        }
+
+
+                        break;
+                    case "العمر المفترض":
+                    case "ExpectedLife":
+                        if (data.SortStatus == "ascending")
+                        {
+                            query = query.
+                            OrderBy(ww => ww.MasterAsset.ExpectedLifeTime);
+
+                        }
+                        else
+                        {
+                            query = query.
+
+                           OrderByDescending(ww => ww.MasterAsset.ExpectedLifeTime);
+                        }
+
 
                         break;
 
@@ -5594,31 +5727,33 @@ namespace UPA.BLL.Repository
                     AssetNameAr = a.MasterAsset.NameAr,
                     BrandName = a.MasterAsset.Brand.Name,
                     BrandNameAr = a.MasterAsset.Brand.NameAr,
-                   Code=a.Code,
-                  SerialNumber=a.SerialNumber,
-                  PurchaseDate= a.PurchaseDate != DateTime.Parse("01/01/1900") ? a.PurchaseDate : null,
-                  Price=a.Price,
-                  OrgName=a.Hospital.Organization.Name,
-                  OrgNameAr=a.Hospital.Organization.NameAr,
-                  SubOrgName=a.Hospital.SubOrganization.Name,
-                  SubOrgNameAr=a.Hospital.SubOrganization.NameAr,
-                  SupplierName=a.Supplier.Name,
-                  SupplierNameAr=a.Supplier.NameAr,
-                  AssetPeriorityName=a.MasterAsset.AssetPeriority.Name,
+                    Code = a.Code,
+                    AgeOfAsset =a.InstallationDate != DateTime.Parse("01/01/1900") ? (DateTime.Now.Year -(  a.InstallationDate.Value.Year)) * 12 +
+                               (  DateTime.Now.Month - a.InstallationDate.Value.Month):0,
+                  SerialNumber = a.SerialNumber,
+                    PurchaseDate = a.PurchaseDate != DateTime.Parse("01/01/1900") ? a.PurchaseDate : null,
+                    Price = a.Price,
+                    OrgName = a.Hospital.Organization.Name,
+                    OrgNameAr = a.Hospital.Organization.NameAr,
+                    SubOrgName = a.Hospital.SubOrganization.Name,
+                    SubOrgNameAr = a.Hospital.SubOrganization.NameAr,
+                    SupplierName = a.Supplier.Name,
+                    SupplierNameAr = a.Supplier.NameAr,
+                    AssetPeriorityName = a.MasterAsset.AssetPeriority.Name,
                     AssetPeriorityNameAr = a.MasterAsset.AssetPeriority.NameAr,
-                    WarrantyStart=a.WarrantyStart,
-                    WarrantyEnd=a.WarrantyEnd,
-                   
+                    WarrantyStart = a.WarrantyStart,
+                    WarrantyEnd = a.WarrantyEnd,
+                    ExpectedLifeTime = a.MasterAsset.ExpectedLifeTime,
                     CategoryName = a.MasterAsset.Category.Name,
                     CategoryNameAr = a.MasterAsset.Category.NameAr,
                     SubCatName = a.MasterAsset.SubCategory.Name,
                     SubCatNameAr = a.MasterAsset.SubCategory.NameAr,
                     Model = a.MasterAsset.ModelNumber,
-                    GovernorateName=a.Hospital.Governorate.Name,
+                    GovernorateName = a.Hospital.Governorate.Name,
                     GovernorateNameAr = a.Hospital.Governorate.NameAr,
                     HospitalName = a.Hospital.Name,
                     HospitalNameAr = a.Hospital.NameAr,
-                    InstallationDate=a.InstallationDate!= DateTime.Parse("01/01/1900") ? a.InstallationDate:null,
+                    InstallationDate = a.InstallationDate != DateTime.Parse("01/01/1900") ? a.InstallationDate : null,
 
                 }).ToList();
             }

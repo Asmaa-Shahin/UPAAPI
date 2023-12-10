@@ -15,3 +15,20 @@ D:\22-08-2023\slnUPA\UPA.BLL\obj\Release\net7.0\UPA.BLL.dll
 D:\22-08-2023\slnUPA\UPA.BLL\obj\Release\net7.0\refint\UPA.BLL.dll
 D:\22-08-2023\slnUPA\UPA.BLL\obj\Release\net7.0\UPA.BLL.pdb
 D:\22-08-2023\slnUPA\UPA.BLL\obj\Release\net7.0\ref\UPA.BLL.dll
+D:\UPA Clone\UPAAPI\UPA.BLL\bin\Release\net7.0\UPA.BLL.deps.json
+D:\UPA Clone\UPAAPI\UPA.BLL\bin\Release\net7.0\UPA.BLL.dll
+D:\UPA Clone\UPAAPI\UPA.BLL\bin\Release\net7.0\UPA.BLL.pdb
+D:\UPA Clone\UPAAPI\UPA.BLL\bin\Release\net7.0\UPA.DAL.dll
+D:\UPA Clone\UPAAPI\UPA.BLL\bin\Release\net7.0\UPA.ViewModels.dll
+D:\UPA Clone\UPAAPI\UPA.BLL\bin\Release\net7.0\UPA.DAL.pdb
+D:\UPA Clone\UPAAPI\UPA.BLL\bin\Release\net7.0\UPA.ViewModels.pdb
+D:\UPA Clone\UPAAPI\UPA.BLL\obj\Release\net7.0\UPA.BLL.csproj.AssemblyReference.cache
+D:\UPA Clone\UPAAPI\UPA.BLL\obj\Release\net7.0\UPA.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPA Clone\UPAAPI\UPA.BLL\obj\Release\net7.0\UPA.BLL.AssemblyInfoInputs.cache
+D:\UPA Clone\UPAAPI\UPA.BLL\obj\Release\net7.0\UPA.BLL.AssemblyInfo.cs
+D:\UPA Clone\UPAAPI\UPA.BLL\obj\Release\net7.0\UPA.BLL.csproj.CoreCompileInputs.cache
+D:\UPA Clone\UPAAPI\UPA.BLL\obj\Release\net7.0\UPA.BLL.csproj.CopyComplete
+D:\UPA Clone\UPAAPI\UPA.BLL\obj\Release\net7.0\UPA.BLL.dll
+D:\UPA Clone\UPAAPI\UPA.BLL\obj\Release\net7.0\refint\UPA.BLL.dll
+D:\UPA Clone\UPAAPI\UPA.BLL\obj\Release\net7.0\UPA.BLL.pdb
+D:\UPA Clone\UPAAPI\UPA.BLL\obj\Release\net7.0\ref\UPA.BLL.dll

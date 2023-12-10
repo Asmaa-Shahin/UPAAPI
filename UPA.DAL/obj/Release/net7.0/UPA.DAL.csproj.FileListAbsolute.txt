@@ -10,3 +10,15 @@ D:\22-08-2023\slnUPA\UPA.DAL\obj\Release\net7.0\UPA.DAL.dll
 D:\22-08-2023\slnUPA\UPA.DAL\obj\Release\net7.0\refint\UPA.DAL.dll
 D:\22-08-2023\slnUPA\UPA.DAL\obj\Release\net7.0\UPA.DAL.pdb
 D:\22-08-2023\slnUPA\UPA.DAL\obj\Release\net7.0\ref\UPA.DAL.dll
+D:\UPA Clone\UPAAPI\UPA.DAL\bin\Release\net7.0\UPA.DAL.deps.json
+D:\UPA Clone\UPAAPI\UPA.DAL\bin\Release\net7.0\UPA.DAL.dll
+D:\UPA Clone\UPAAPI\UPA.DAL\bin\Release\net7.0\UPA.DAL.pdb
+D:\UPA Clone\UPAAPI\UPA.DAL\obj\Release\net7.0\UPA.DAL.csproj.AssemblyReference.cache
+D:\UPA Clone\UPAAPI\UPA.DAL\obj\Release\net7.0\UPA.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPA Clone\UPAAPI\UPA.DAL\obj\Release\net7.0\UPA.DAL.AssemblyInfoInputs.cache
+D:\UPA Clone\UPAAPI\UPA.DAL\obj\Release\net7.0\UPA.DAL.AssemblyInfo.cs
+D:\UPA Clone\UPAAPI\UPA.DAL\obj\Release\net7.0\UPA.DAL.csproj.CoreCompileInputs.cache
+D:\UPA Clone\UPAAPI\UPA.DAL\obj\Release\net7.0\UPA.DAL.dll
+D:\UPA Clone\UPAAPI\UPA.DAL\obj\Release\net7.0\refint\UPA.DAL.dll
+D:\UPA Clone\UPAAPI\UPA.DAL\obj\Release\net7.0\UPA.DAL.pdb
+D:\UPA Clone\UPAAPI\UPA.DAL\obj\Release\net7.0\ref\UPA.DAL.dll

@@ -600,3 +600,4 @@ F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\refint\UPA.We
 F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.pdb
 F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.genruntimeconfig.cache
 F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.Web\obj\Debug\net7.0\ref\UPA.Web.dll
+D:\UPA Clone\UPAAPI\UPA.Web\obj\Debug\net7.0\UPA.Web.sourcelink.json
