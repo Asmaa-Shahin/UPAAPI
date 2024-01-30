@@ -82,3 +82,16 @@ F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.DAL\obj\Debug\net7.0\UPA.DAL.dll
 F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.DAL\obj\Debug\net7.0\refint\UPA.DAL.dll
 F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.DAL\obj\Debug\net7.0\UPA.DAL.pdb
 F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.DAL\obj\Debug\net7.0\ref\UPA.DAL.dll
+D:\UPA Clone\UPAAPI\UPA.DAL\obj\Debug\net7.0\UPA.DAL.sourcelink.json
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.DAL\bin\Debug\net7.0\UPA.DAL.deps.json
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.DAL\bin\Debug\net7.0\UPA.DAL.dll
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.DAL\bin\Debug\net7.0\UPA.DAL.pdb
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.DAL\obj\Debug\net7.0\UPA.DAL.csproj.AssemblyReference.cache
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.DAL\obj\Debug\net7.0\UPA.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.DAL\obj\Debug\net7.0\UPA.DAL.AssemblyInfoInputs.cache
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.DAL\obj\Debug\net7.0\UPA.DAL.AssemblyInfo.cs
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.DAL\obj\Debug\net7.0\UPA.DAL.csproj.CoreCompileInputs.cache
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.DAL\obj\Debug\net7.0\UPA.DAL.dll
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.DAL\obj\Debug\net7.0\refint\UPA.DAL.dll
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.DAL\obj\Debug\net7.0\UPA.DAL.pdb
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.DAL\obj\Debug\net7.0\ref\UPA.DAL.dll

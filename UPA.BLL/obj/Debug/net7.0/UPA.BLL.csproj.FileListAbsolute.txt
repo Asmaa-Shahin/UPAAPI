@@ -117,3 +117,21 @@ F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.BLL\obj\Debug\net7.0\UPA.BLL.dll
 F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.BLL\obj\Debug\net7.0\refint\UPA.BLL.dll
 F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.BLL\obj\Debug\net7.0\UPA.BLL.pdb
 F:\_____Almostakbal\UPA\2023-10-23\UPAAPI\UPA.BLL\obj\Debug\net7.0\ref\UPA.BLL.dll
+D:\UPA Clone\UPAAPI\UPA.BLL\obj\Debug\net7.0\UPA.BLL.sourcelink.json
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.BLL\bin\Debug\net7.0\UPA.BLL.deps.json
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.BLL\bin\Debug\net7.0\UPA.BLL.dll
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.BLL\bin\Debug\net7.0\UPA.BLL.pdb
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.BLL\bin\Debug\net7.0\UPA.DAL.dll
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.BLL\bin\Debug\net7.0\UPA.ViewModels.dll
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.BLL\bin\Debug\net7.0\UPA.DAL.pdb
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.BLL\bin\Debug\net7.0\UPA.ViewModels.pdb
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.BLL\obj\Debug\net7.0\UPA.BLL.csproj.AssemblyReference.cache
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.BLL\obj\Debug\net7.0\UPA.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.BLL\obj\Debug\net7.0\UPA.BLL.AssemblyInfoInputs.cache
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.BLL\obj\Debug\net7.0\UPA.BLL.AssemblyInfo.cs
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.BLL\obj\Debug\net7.0\UPA.BLL.csproj.CoreCompileInputs.cache
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.BLL\obj\Debug\net7.0\UPA.BLL.csproj.CopyComplete
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.BLL\obj\Debug\net7.0\UPA.BLL.dll
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.BLL\obj\Debug\net7.0\refint\UPA.BLL.dll
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.BLL\obj\Debug\net7.0\UPA.BLL.pdb
+D:\_____Almostakbal\002-UPA\2023-10-23\UPAAPI\UPA.BLL\obj\Debug\net7.0\ref\UPA.BLL.dll

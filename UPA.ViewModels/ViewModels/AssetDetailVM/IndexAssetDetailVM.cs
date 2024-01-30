@@ -20,6 +20,8 @@ namespace UPA.ViewModels.ViewModels.AssetDetailVM
             public int? MasterAssetId { get; set; }
             public int? MasterContractId { get; set; }
             public string? Code { get; set; }
+            public int? ExpectedLifeTime { get; set; }
+            public decimal ? AgeOfAsset { get; set; }
             public string? Serial { get; set; }
             public string? Model { get; set; }
             public string? SerialNumber { get; set; }
